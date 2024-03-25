@@ -1,0 +1,11 @@
+Verificar se o postgreSQL está instalado
+Abri VScode
+Criar um novo perfil (SQL)
+instalar a extensão postgreSQL - Microsoft
+CTRL+SHIFT+P ->	Postgressql: New Query
+"Creat Profile"
+Server Name: Localhost
+Database: ""
+User Name: postgres
+Passworld: postgres
+Port: 5432
